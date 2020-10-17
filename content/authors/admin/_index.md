@@ -45,9 +45,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-
-
+  link: '#contact'  # For a direct email link, use "ab713@duke.edu".
+  
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/ana-belen-barcenas-j-13020a96
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/abbarcenasj
