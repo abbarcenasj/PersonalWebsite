@@ -22,9 +22,11 @@ bio: ()
 
 interests:
 - Machine Learning
+- Big Data
 - Natural Language Processing
 - Behavioral Economics
-- Long-distance running & Nutrition
+- Long-distance running 
+- Nutrition
 
 education:
   courses:
