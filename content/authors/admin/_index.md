@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I’m a data scientist and economist with a fascination for understanding and modeling human decision-making. I have extensive experience in applying advanced statistical techniques to analyze customer data and to address challenges and opportunities related to customer management and operational efficiency. 
+I’m a data scientist and economist with a fascination for understanding and modeling human decision-making. I have experience in applying advanced statistical techniques to analyze customer data and to address challenges and opportunities related to customer management and operational efficiency. 
