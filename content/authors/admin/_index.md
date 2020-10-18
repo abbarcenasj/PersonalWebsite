@@ -49,7 +49,7 @@ social:
   
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/ana-belen-barcenas-j-13020a96
+  link: https://www.linkedin.com/in/ana-belen-barcenas-j-13020a96/
   
 - icon: github
   icon_pack: fab
@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/AnaBelenBarcenas_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
