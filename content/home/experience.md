@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """ 
   Developed predictive models to assess the incremental value of tax-related data on top of credit bureau data to predict credit risk.
   
-    *	Created a tool to score incremental value in sub-segments of the population served by a leading tax preparation services company in the US.
+   *	Created a tool to score incremental value in sub-segments of the population served by a leading tax preparation services company in the US.
   """
 
 [[experience]]
@@ -38,13 +38,13 @@ date_format = "Jan 2006"
   date_start = "2018-05-15"
   date_end = "2018-08-01"
   description = """ 
-  * Built and tested classification models to identify the main topic in customers’ emails and redirect the complaints to the specific LOB.
+  *Built and tested classification models to identify the main topic in customers’ emails and redirect the complaints to the specific LOB.
   
      *	Implemented LDA, Word2Vec, among other feature extraction techniques to improve performance.
     
-  * Collaborated on email data pre-processing and target variable creation to identify restricted data.
+  Collaborated on email data pre-processing and target variable creation to identify restricted data.
   
-     *	Explored and implemented guided learning strategies to label in extreme imbalanced data scenarios.
+  * Explored and implemented guided learning strategies to label in extreme imbalanced data scenarios.
 
   """
   
