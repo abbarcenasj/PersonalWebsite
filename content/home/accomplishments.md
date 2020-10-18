@@ -101,7 +101,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Duke University"
   organization_url = ""
-  title = "Unifying Data Science (Experiments & Causal Inference) - Prof. Nick Eubank"
+  title = "Unifying DS (Experiments & Causal Inference) - Prof. Nick Eubank"
   url = "https://www.unifyingdatascience.org/html/class_schedule.html"
   certificate_url = ""
   date_start = "2020-01-01"
