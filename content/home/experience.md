@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Richmond, VA"
   date_start = "2020-06-15"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * (...)
-  * (...)
-  """
+  description = """ """
 
 [[experience]]
   title = "Data Science Intern"
@@ -38,6 +33,25 @@ date_format = "Jan 2006"
   location = "San Francisco, CA"
   date_start = "2018-05-15"
   date_end = "2018-08-01"
-  description = """NLP solutions"""
+  description = """ """
+  
+  
+[[experience]]
+  title = "Data Analyst"
+  company = "Grupo Financiero Banorte (GFNorte)"
+  company_url = ""
+  location = "Mexico City, MX"
+  date_start = "2016-06-15"
+  date_end = "2018-07-01"
+  description = """ """
+  
+[[experience]]
+  title = "Data Analyst Intern"
+  company = "WGrupo Financiero Banorte (GFNorte)"
+  company_url = ""
+  location = "Mexico City, MX"
+  date_start = "2015-02-15"
+  date_end = "2015-08-01"
+  description = """ """
 
 +++
