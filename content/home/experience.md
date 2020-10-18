@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Scientist"
   company = "2nd Order Solutions"
-  company_url = ""
+  company_url = "https://2os.com/"
   location = "Richmond, VA"
   date_start = "2020-06-15"
   date_end = ""
