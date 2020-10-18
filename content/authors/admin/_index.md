@@ -15,7 +15,7 @@ role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Duke University
-  url: ""
+  url: "https://datascience.duke.edu/mids-class-2020-profile"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ()
