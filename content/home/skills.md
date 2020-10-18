@@ -15,22 +15,47 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Advanced" 
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Advanced" 
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Intermediate"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "star"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "PySpark"
+  description = "Intermediate"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+ icon = "chart-bar"
+ icon_pack = "fas"
+ name = "Tableau"
+ description = "Intermediate"
+ 
+[[feature]]
+ icon = "overleaf"
+ icon_pack = "ai"
+ name = "LaTeX"
+ description = "Intermediate"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Intermediate"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
