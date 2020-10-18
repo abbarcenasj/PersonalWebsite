@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Data Analyst Intern"
-  company = "WGrupo Financiero Banorte (GFNorte)"
+  company = "Grupo Financiero Banorte (GFNorte)"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2015-02-15"
