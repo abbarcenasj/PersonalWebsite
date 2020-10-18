@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Duke University - Coursera"
+  organization_url = ""
+  title = "Behavioral Finance - Prof. Emma Rasiel"
+  url = "https://www.coursera.org/learn/duke-behavioral-finance"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/BEDEYA9GYB7L"
+  date_start = "2020-02-01"
+  date_end = "2020-03-01"
+  description = ""
+
+[[item]]
   organization = "Duke University"
   organization_url = ""
   title = "Intro. to Deep Learning - Prof. Vahid Tarokh"
@@ -27,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2019-12-01"
   description = ""
+  
 
 [[item]]
   organization = "Duke University"
