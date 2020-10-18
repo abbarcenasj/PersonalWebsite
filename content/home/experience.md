@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-15"
   date_end = ""
   description = """ 
-  * Developed predictive models to assess the incremental value of tax-related data on top of credit bureau data to predict credit risk.
+  Developed predictive models to assess the incremental value of tax-related data on top of credit bureau data to predict credit risk.
   
     *	Created a tool to score incremental value in sub-segments of the population served by a leading tax preparation services company in the US.
   """
