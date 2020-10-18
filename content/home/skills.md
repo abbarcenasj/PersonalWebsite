@@ -32,11 +32,6 @@ subtitle = ""
   name = "R"
   description = "Intermediate"
   
-# [[feature]]
-#   icon = "star"
-#   icon_pack = "far"
-#   name = "PySpark"
-#   description = "Intermediate"
   
 [[feature]]
  icon = "chart-bar"
@@ -56,6 +51,22 @@ subtitle = ""
   name = "Git"
   description = "Intermediate"
   
-
+[[feature]]
+  icon = "star"
+  icon_pack = "far"
+  name = "PySpark"
+  description = "Beginner"
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "Beginner"
+  
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "Beginner"
 
 +++
