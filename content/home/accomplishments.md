@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Behavioral Finance - Prof. Emma Rasiel"
   url = "https://www.coursera.org/learn/duke-behavioral-finance"
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/BEDEYA9GYB7L"
-  date_start = "2020-02-01"
-  date_end = "2020-03-01"
+  date_start = "2019-02-01"
+  date_end = "2019-03-01"
   description = ""
 
 [[item]]
