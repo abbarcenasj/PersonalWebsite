@@ -115,8 +115,8 @@ date_format = "Jan 2006"
   title = "Unifying DS (Experiments & Causal Inference) - Prof. Nick Eubank"
   url = "https://www.unifyingdatascience.org/html/class_schedule.html"
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-05-01"
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
   description = ""
 
 [[item]]
