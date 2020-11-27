@@ -9,6 +9,6 @@ date: "2019-04-27T00:00:00Z"
 external_link: https://github.com/abbarcenasj/RiskyChoiceBehavior
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Risky Choices
   focal_point: Smart
 ---
