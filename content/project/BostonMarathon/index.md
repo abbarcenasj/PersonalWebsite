@@ -9,6 +9,6 @@ date: "2018-11-27T00:00:00Z"
 external_link: https://github.com/abbarcenasj/BostonMarathon
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Boston Marathon logo
   focal_point: Smart
 ---
