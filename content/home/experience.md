@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   
   
 [[experience]]
-  title = "Data Analyst"
+  title = "Data Scientist"
   company = "Grupo Financiero Banorte (GFNorte)"
   company_url = ""
   location = "Mexico City, MX"
